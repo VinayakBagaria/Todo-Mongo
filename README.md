@@ -1,4 +1,6 @@
-# Todo-Mongo
+<h1 align="center">
+  Todo-Mongo
+</h1>
 Mongodb based Todo application. No requirements to learn the database rules and structures as schema will be similar to objects
 in JS.
 
